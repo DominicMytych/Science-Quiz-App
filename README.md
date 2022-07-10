@@ -11,8 +11,8 @@
 <li>Modularising code into separate classes..</li>
 <li>Dart classes and objects.</li>
 <li>Using class constructors.</li>
-<li>Extracting Widgets to refactor your code.</li>
-<li>private and public modifiers in Dart.</li>
+<li>Extracting Widgets to refactor code.</li>
+<li>Private and public modifiers in Dart.</li>
 <li>Dart lists</li>
 <li>Handle Splash screen</li>
 
